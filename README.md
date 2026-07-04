@@ -10,6 +10,21 @@ I'm an undergraduate student pursuing B.E. in Artificial Intelligence and Machin
 
 ---
 
+## 🚀 About Me 
+
+🎓 Final-year B.E. student in **Artificial Intelligence & Machine Learning** at **Muffakham Jah College of Engineering and Technology, Hyderabad**. 
+
+I enjoy building intelligent systems that combine **Machine Learning, Computer Vision, Speech Technologies, and Cloud Computing** to solve practical problems. 
+
+My interests lie in: 
+
+- 🤖 Artificial Intelligence & Machine Learning
+- 👁️ Computer Vision - 🗣️ Speech & Natural Language Processing
+- ☁️ Cloud Computing and AI Deployment
+- 📊 Applied Research and Data-Driven Systems
+  
+Currently exploring **Emotional Speech Synthesis**, **Representation Learning**, and **Large Language Models** while actively seeking opportunities in **AI research and engineering**.
+
 ### 🧠 Skills & Technologies
 
 - **Languages:** Python, Java, C, SQL, HTML, CSS, JavaScript
