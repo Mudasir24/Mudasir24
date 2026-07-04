@@ -14,7 +14,8 @@ I enjoy building intelligent systems that combine **Machine Learning, Computer V
 My interests lie in: 
 
 - 🤖 Artificial Intelligence & Machine Learning
-- 👁️ Computer Vision - 🗣️ Speech & Natural Language Processing
+- 👁️ Computer Vision
+- 🗣️ Speech & Natural Language Processing
 - ☁️ Cloud Computing and AI Deployment
 - 📊 Applied Research and Data-Driven Systems
   
