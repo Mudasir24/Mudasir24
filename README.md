@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Mudasir
 
 **AI & ML Enthusiast | Builder of Intelligent Systems**
+### AI & Machine Learning Undergraduate | Research Enthusiast | Building Intelligent Systems for Real-World Impact
 
 ---
 
