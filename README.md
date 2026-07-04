@@ -4,7 +4,9 @@
 
 ---
 
-<div align="center"> ### AI & Machine Learning Undergraduate | Research Enthusiast | Building Intelligent Systems for Real-World Impact [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL) [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=google-chrome)](https://mudasir24.github.io/Portfolio/) [![GitHub Followers](https://img.shields.io/github/followers/Mudasir24?style=for-the-badge)](https://github.com/Mudasir24) </div>
+<div align="center"> 
+### AI & Machine Learning Undergraduate | Research Enthusiast | Building Intelligent Systems for Real-World Impact [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL) [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=google-chrome)](https://mudasir24.github.io/Portfolio/) [![GitHub Followers](https://img.shields.io/github/followers/Mudasir24?style=for-the-badge)](https://github.com/Mudasir24) 
+</div>
 
 ### 💼 About Me
 
