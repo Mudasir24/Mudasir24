@@ -1,15 +1,10 @@
 # 👋 Hi, I'm Mudasir
 
-**AI & ML Enthusiast | Builder of Intelligent Systems**
 ### AI & Machine Learning Undergraduate | Research Enthusiast | Building Intelligent Systems for Real-World Impact
 
 ---
 
-<div align="center"> 
-### AI & Machine Learning Undergraduate | Research Enthusiast | Building Intelligent Systems for Real-World Impact [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL) [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=google-chrome)](https://mudasir24.github.io/Portfolio/) [![GitHub Followers](https://img.shields.io/github/followers/Mudasir24?style=for-the-badge)](https://github.com/Mudasir24) 
-</div>
-
-### 💼 About Me
+## 💼 About Me
 
 I'm an undergraduate student pursuing B.E. in Artificial Intelligence and Machine Learning at Muffakham Jah College of Engineering and Technology. I love building impactful systems—from real-time sign language translation to smart city waste management—leveraging Python, Java, C, SQL, and the latest in machine learning, deep learning, computer vision, and AWS.
 
