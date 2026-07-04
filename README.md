@@ -2,11 +2,6 @@
 
 ### AI & Machine Learning Undergraduate | Research Enthusiast | Building Intelligent Systems for Real-World Impact
 
----
-
-## 💼 About Me
-
-I'm an undergraduate student pursuing B.E. in Artificial Intelligence and Machine Learning at Muffakham Jah College of Engineering and Technology. I love building impactful systems—from real-time sign language translation to smart city waste management—leveraging Python, Java, C, SQL, and the latest in machine learning, deep learning, computer vision, and AWS.
 
 ---
 
@@ -25,52 +20,109 @@ My interests lie in:
   
 Currently exploring **Emotional Speech Synthesis**, **Representation Learning**, and **Large Language Models** while actively seeking opportunities in **AI research and engineering**.
 
-### 🧠 Skills & Technologies
+---
 
-- **Languages:** Python, Java, C, SQL, HTML, CSS, JavaScript
-- **Frameworks & Libraries:** Flask, Streamlit, MediaPipe
-- **Specialties:** Machine Learning, Deep Learning, Computer Vision
-- **Cloud & Tools:** AWS (S3, SageMaker, SNS, Elastic Beanstalk, Location Service)
+## 🛠️ Tech Stack 
+
+### Languages 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) 
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black) 
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
+
+### AI & Data Science 
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Speech Processing
+- Data Analysis
+- Generative AI
+
+### Frameworks & Libraries
+- TensorFlow / Keras
+- Scikit-learn
+- OpenCV
+- MediaPipe
+- Streamlit
+- Flask
+- Pandas & NumPy
+- LangChain
+
+### Cloud & Tools 
+- AWS S3
+- AWS SageMaker
+- AWS SNS
+- AWS Elastic Beanstalk
+- AWS Location Service
+- Git & GitHub
+- Linux
+- Google Colab
 
 ---
 
-### 🚀 Notable Projects
+## 🏆 Achievements
 
-- **Smart Link:**  
-  AI-powered waste management system with YOLOv8 trash detection, GPS-based officer tracking, and AWS integration.
+🏆 **1st Place – Interdepartment Quiz Competition** 
 
-- **Bidirectional Sign Language Communication System:**  
-  Real-time ISL gesture translation using MediaPipe, MLPClassifier, and gTTS.
+🏅 **3rd Place – Idea Day Competition** 
 
-- **Pong Arcade:**  
-  Modern remake of the classic Pong game featuring multiple modes, leaderboards, and multiplayer functionality.
+📄 **Research Paper Presentation – NSCADF'25** 
+
+🎓 Selected for: 
+- **10th Summer School on AI, IIIT Hyderabad**
+- **IASNLP Summer School, IIIT Hyderabad**
+- **Applied AI & ML Training Program – IIIT Hyderabad**
+  
+---
+
+## 📜 Certifications 
+- CS50x: Introduction to Computer Science - Harvard University
+- Machine Learning Specialization – Andrew Ng
+- Programming in Java – NPTEL (IIT Kharagpur)
+- Generative AI Foundations Program
+- Applied AI & Machine Learning Training – IIIT Hyderabad
+  
+---
+
+## 📈 GitHub Stats 
+
+Building projects > Collecting stars ⭐
+Learning continuously > Knowing everything📚
+Consistency > Perfection 🚀
 
 ---
 
-### 🏆 Achievements & Certifications
+## 🌱 Currently Learning
 
-- **Academics:** 1st place in Semester 2 (GPA: 9.82), 2nd in Semester 1 (GPA: 9.1)
-- **Competitions:** 3rd place in Idea Day Competition, 1st place in Interdepartment Quiz (team), Selected for Paper Presentation
-- **Certifications:** CS50x (Harvard), NPTEL Programming in Java, Machine Learning by Andrew Ng
-
----
-
-### 🧬 Tagline
-
-*Passionate AI & ML undergraduate building intelligent, impactful systems — from real-time sign language translation to AI-driven waste management.*
+- Large Language Models (LLMs)
+- Speech Processing and NLP
+- MLOps and AI Deployment
+- Research Methodologies in AI
+- System Design for AI Applications
 
 ---
 
-### 🌐 Connect with Me
-
-- [LinkedIn](#)
-- [GitHub](#)
+## 💡 Fun Facts
+- 🌍 Passionate about using AI for social good.
+- 🔬 Love experimenting with research ideas and prototypes.
+- 💻 Enjoy hackathons, coding challenges, and building end-to-end applications.
+- 🚀 Always exploring new technologies and learning something new.
 
 ---
 
-### 🎮 Fun Facts
+## 📫 Connect With Me
 
-- Love exploring AI for social good
-- Enjoy coding challenges and hackathons
-- Big fan of turning ideas into real projects
-- Currently improving ML project deployment and system design skills
+- 💼 LinkedIn: [Mudasir Ahmed](https://www.linkedin.com/in/mudasir-ahmed-447a5924b/)
+- 🌐 Portfolio: https://mudasir24.github.io/Portfolio/
+- 📧 Email: mudasir2490@gmail.com
+
+---
+
+<div align="center">
+
+"Building intelligent systems that create meaningful impact."
+
+⭐️ If you like my work, feel free to explore my repositories and connect with me!
+
+</div>
